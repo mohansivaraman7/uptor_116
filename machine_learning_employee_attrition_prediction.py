@@ -95,3 +95,6 @@ plt.show()
 fig, ax= plt.subplots(figsize=(18,5))
 sns.countplot(data=df, x='DistanceFromHome')
 plt.title('Distance From Home')
+
+
+print ("git hub changes made")
